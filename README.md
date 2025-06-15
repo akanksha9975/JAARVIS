@@ -26,5 +26,21 @@
 
 ---
 
+## 🔮 Future Requirements
 
+- 📲 Send WhatsApp messages via Twilio/WhatsApp API
+- 📩 SMS feature using SMS gateway (e.g., Fast2SMS or Twilio)
+- 👥 Add/search/delete contacts via voice commands
+- 🧠 Smart intent detection for messaging/calling
+- 🔐 Secure contact actions with voice/passcode
+
+
+---
+
+## ▶️ How to Run JAARVIS on Your System
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/JAARVIS.git
+   cd JAARVIS
 
