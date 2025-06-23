@@ -50,7 +50,8 @@ def takecommand():
 
 @eel.expose
 def allCommands():
-     
+  
+  try:
      query=takecommand()
      print(query)
      
@@ -66,7 +67,11 @@ def allCommands():
      else:
          print("not run") 
 
-     eel.ShowHood()     
+
+  except:
+        print("error")
+  
+  eel.ShowHood()     
          
 
 
