@@ -44,3 +44,10 @@
    git clone https://github.com/your-username/JAARVIS.git
    cd JAARVIS
 
+   Use these commands to create env environment:
+        
+      1.  Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+      2.  .\envJAARVIS\Scripts\Activate
+      3.  python run.py   or python main.py
+      
+
